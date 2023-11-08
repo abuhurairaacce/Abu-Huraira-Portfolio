@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px;
+    font-family: monospace;
+    font-weight: 900;
+
+}
+nav ul{
+    display: flex;
+}
+/* main kaj flex kora . trpr style add korlei hobe */
+nav ul li{
+    list-style: none;
+    padding:5px
+}
+#name-i{
+    color: orange;
+}
